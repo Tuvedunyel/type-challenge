@@ -8,5 +8,6 @@
     "declaration": true,
     "moduleResolution": "node"
   },
-  "files": ["ts/script.ts"]
+  "files": ["ts/script.ts"],
+  "inclued": ["ts/types/**/*"]
 }
