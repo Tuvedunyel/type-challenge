@@ -9,5 +9,5 @@
     "moduleResolution": "node"
   },
   "files": ["ts/script.ts"],
-  "inclued": ["ts/types/**/*"]
+  "include": ["ts/types/**/*"]
 }

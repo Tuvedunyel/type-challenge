@@ -1,6 +1,6 @@
 import Alpine from "alpinejs";
 
-Alpine.data("myComponent", function (initial = 0) {
+Alpine.data("myComponent", function (initial: number = 0) {
   return {
     compteur: initial,
     increment() {
