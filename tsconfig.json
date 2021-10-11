@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "js",
+    "target": "ES2018",
+    "noEmitOnError": true,
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "declaration": true,
+    "moduleResolution": "node"
+  },
+  "files": ["ts/script.ts"]
+}
